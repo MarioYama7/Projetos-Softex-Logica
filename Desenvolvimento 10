@@ -1,0 +1,17 @@
+Aluno: Mário Henrique
+
+a = 3+7j
+b = complex(8,9)
+c = complex(2,5)
+
+print ('A soma é:',(a + b + c) )
+print ('A subtração é:',(a - b - c) )
+print ('A multiplicação é:',(a * b * c) )
+print ('A divisão é:',(a / b / c) )
+
+print ('O número real de a é:', (a.real))
+print('O número imaginario de a é:',  (a.imag))
+print('O número real de b é:', (b.real))
+print('O número imaginário de b é:', (b.imag))
+print('O número real de c é:', (c.real))
+print('O número imaginario de c é:', (c.imag))
