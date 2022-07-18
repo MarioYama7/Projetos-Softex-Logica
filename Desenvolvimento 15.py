@@ -3,8 +3,8 @@
 import time
 
 i = 10
-print("A bomba vai explodir em: ")
-while i >= 0.1:
+print("Explosão em: ")
+while i >= 0:
     time.sleep(1)
     print(i)
     if i == 0:
