@@ -1,6 +1,6 @@
 
 package Softe03;
-//Importação das bibliotecas para o código. 
+//ImportaÃ§Ã£o das bibliotecas para o cÃ³digo. 
 
 
 import java.io.BufferedReader;
@@ -16,7 +16,7 @@ public class Projeto_07{
 
              try {
                     breader = new BufferedReader(new FileReader
-                     ("arquivo.bin")); //Arquivo fictício
+                     ("arquivo.bin")); //Arquivo fictÃ­cio
              } catch (IOException e) {
                     // TODO Auto-generated catch block
                     e.printStackTrace();
